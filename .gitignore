@@ -1,7 +1,6 @@
 .librarian/*
 .tmp/*
 .vagrant/*
-modules/*
 .DS_Store
 
 !modules/lynis/*
